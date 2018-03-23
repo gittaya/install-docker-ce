@@ -7,7 +7,7 @@ installing the latest Docker-CE releases on the ubuntu 16.04 LTS or higher
 
 Run this on your ubuntu box without using git
 ```shell
-curl -LJO https://raw.githubusercontent.com/gittaya/install-docker-ce/master/install-docker.sh -o install-docker.sh
+curl -LJO https://raw.githubusercontent.com/gittaya/install-docker-ce/master/install-docker.sh 
 sh install-docker.sh
 ```
 
